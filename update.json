@@ -1,5 +1,16 @@
 {
-  "version": "1.0",
-  "notification": "NO UPDATE",
-  "update": [{}]
+  "version": "1.1",
+  "notification": "FIX RÚT.",
+  "update": [
+    {
+      "name": "GAME",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/Assembly-CSharp.dll",
+      "path": "CSMM_NRO_GAME_Data\\Managed\\"
+    },
+    {
+      "name": "QLTK",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/QLTK_CSMM.exe",
+      "path": ""
+    }
+  ]
 }
