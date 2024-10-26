@@ -11,6 +11,11 @@
       "name": "QLTK",
       "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/QLTK_CSMM.exe",
       "path": ""
+    },
+    {
+      "name": "Server",
+      "link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/refs/heads/main/server.txt",
+      "path": "Info\\"
     }
   ]
 }
