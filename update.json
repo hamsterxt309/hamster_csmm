@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "notification": "Update...",
+  "version": "1.5",
+  "notification": "UPDATE",
   "update": [
     {
       "name": "GAME",
