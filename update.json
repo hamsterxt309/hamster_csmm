@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "notification": "Không nhận giao dịch[3].",
+  "version": "2.0",
+  "notification": "Vứt vật phẩm sự kiện.",
   "update": [
     {
       "name": "GAME",
