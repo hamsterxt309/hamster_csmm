@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "notification": "TỔNG KẾT XONG BXH MỚI UPDATE.",
+  "version": "2.2",
+  "notification": "Thêm thời gian login sau.",
   "update": [
     {
       "name": "GAME",
