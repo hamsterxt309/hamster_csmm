@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "notification": "Thêm thời gian login sau.",
+  "version": "2.3",
+  "notification": "Xóa chat riêng + thường.",
   "update": [
     {
       "name": "GAME",
