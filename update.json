@@ -1,6 +1,6 @@
 {
-  "version": "2.4",
-  "notification": "Xóa chat riêng + thường.[2]",
+  "version": "2.5",
+  "notification": "Thêm báo không đủ vàng trả.",
   "update": [
     {
       "name": "GAME",
