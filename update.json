@@ -1,6 +1,6 @@
 {
-  "version": "2.5",
-  "notification": "Thêm báo không đủ vàng trả.",
+  "version": "2.6",
+  "notification": "Thêm nợ trả vàng.",
   "update": [
     {
       "name": "GAME",
