@@ -1,6 +1,6 @@
 {
-  "version": "2.6",
-  "notification": "Thêm nợ trả vàng.",
+  "version": "2.7",
+  "notification": "Thêm nợ trả vàng[FIX 1].",
   "update": [
     {
       "name": "GAME",
