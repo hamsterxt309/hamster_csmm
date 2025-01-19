@@ -1,6 +1,6 @@
 {
-  "version": "2.9",
-  "notification": "Fix dùng bông tai.",
+  "version": "3.0",
+  "notification": "Thêm di chuyển qua lại tránh ban.",
   "update": [
     {
       "name": "GAME",
