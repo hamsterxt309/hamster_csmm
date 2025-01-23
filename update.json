@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
-  "notification": "Thêm vũ trụ 14.",
+  "version": "3.2",
+  "notification": "Update chỉ giao dịch vàng khi nợ dưới 37tr.",
   "update": [
     {
       "name": "GAME",
