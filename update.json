@@ -1,6 +1,6 @@
 {
-  "version": "3.2",
-  "notification": "Update chỉ giao dịch vàng khi nợ dưới 37tr.",
+  "version": "3.3",
+  "notification": "Fix trả vàng nhỏ.",
   "update": [
     {
       "name": "GAME",
